@@ -763,6 +763,9 @@ fi
 %attr(0644,root,root) %{_mandir}/man3/omapi.3.gz
 
 %changelog
+* Mon Apr 10 2017 ClearFoundation <developer@clearfoundation.cm> - 12:4.1.1-53.P1.clear
+- Added resolv-peerdns.conf changes
+
 * Tue Mar 21 2017 Johnny Hughes <johnny@centos.org> - 12:4.1.1-53.P1
 - created patch 1000 for CentOs Branding
 - Replaced vvendor variable with CentOS Branding
